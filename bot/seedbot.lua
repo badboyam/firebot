@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {109618284,83150569},--Sudo users
+    sudo_users = {109618284},--Sudo users
     disabled_channels = {},
     realm = {data = 'data/moderation.json'},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -230,11 +230,7 @@ An advance Administration bot based on yagop/telegram-bot
 
  Admin
  @iran_mask
-
-
-
- special thanks to
- @pouya_joker111
+ 
  
     help_text = [[
 Commands list :
